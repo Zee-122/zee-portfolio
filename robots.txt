@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zee-122.github.io/zee-portfolio/sitemap.xml
